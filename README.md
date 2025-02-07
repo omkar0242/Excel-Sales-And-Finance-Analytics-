@@ -21,11 +21,11 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/omkar0242/Excel-Sales-And-Finance-Analytics-/blob/main/P%26L%20Report%20by%20Fiscal%20Moths%20%26%20Quarters.pdf) 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/omkar0242/Excel-Sales-And-Finance-Analytics-/blob/main/P%26L%20Report%20by%20Fiscal%20Year.pdf)
 
-   **2.** Create Profit and Loss (P&L) reports by _[Months]& _[Quarters](https://github.com/omkar0242/Excel-Sales-And-Finance-Analytics-/blob/main/P%26L%20Report%20by%20Fiscal%20Year.pdf)
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+   **2.** Create Profit and Loss (P&L) reports by _[Months & Quarters](https://github.com/omkar0242/Excel-Sales-And-Finance-Analytics-/blob/main/P%26L%20Report%20by%20Fiscal%20Moths%20%26%20Quarters.pdf)
+- **Purpose of Finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
